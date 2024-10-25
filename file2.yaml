@@ -1,0 +1,10 @@
+apples:
+  color: green
+  taste: sweet
+nested:
+  fruits:
+    - apple
+    - banana
+  vegetables:
+    - carrot
+    - lettuce

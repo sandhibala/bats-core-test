@@ -1,0 +1,10 @@
+apples:
+  color: red
+  taste: sweet
+nested:
+  fruits:
+    - apple
+    - banana
+  vegetables:
+    - carrot
+    - spinach
